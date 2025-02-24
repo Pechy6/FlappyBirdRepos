@@ -1,7 +1,8 @@
 # Flappy Bird 
-## My own project in Unity for improving my skills
+## About
 **Game** Flappy Bird
-**Made in** Unity 
+**Made in** Unity (Without tutorials) 
+
 ## Credits 
 - Developed by: [Patrik Pech]
 - Language: **C#**
